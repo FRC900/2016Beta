@@ -3,4 +3,4 @@
 	url = https://github.com/FRC900/navX-MXP-LabVIEW
 [submodule "900/Team900-VIs"]
 	path = 900/Team900-VIs
-	url = https://github.com/FRC900/Team900-VIs
+	url = git@github.com:FRC900/Beta-TeamVI-s
